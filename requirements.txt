@@ -1,0 +1,6 @@
+SpeechRecognition
+beautifulsoup4~=4.11.1
+gTTS~=2.2.4
+pyglet~=1.5.23
+
+pyttsx3~=2.90
