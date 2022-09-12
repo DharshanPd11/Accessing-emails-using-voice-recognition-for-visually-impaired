@@ -21,5 +21,6 @@
       8) Text-To-Speech
       9) SMTP
       
-   
+   *Note: I've attached all the required file and informations in this repository in-order to run this model
+         and also have provided sufficient comments in the code for the reader understanding.
     
