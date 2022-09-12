@@ -13,7 +13,7 @@ import os, time
 #pyglet.lib.load_library('avbin')
 #pyglet.have_avbin=True
 
-#project: :. Project: Voice based Email for blind :. 
+#project: :Accessing-emails-using-voice-recognition-for-visually-impaired
 
 #fetch project name
 tts = gTTS(text="Project: Voice based Email for blind", lang='en')
